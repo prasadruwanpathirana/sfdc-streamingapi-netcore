@@ -1,0 +1,11 @@
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\bin\Debug\netcoreapp2.1\StreamingAPI_Core.deps.json
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\bin\Debug\netcoreapp2.1\StreamingAPI_Core.runtimeconfig.json
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\bin\Debug\netcoreapp2.1\StreamingAPI_Core.runtimeconfig.dev.json
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\bin\Debug\netcoreapp2.1\StreamingAPI_Core.dll
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.csprojAssemblyReference.cache
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.csproj.CoreCompileInputs.cache
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.AssemblyInfoInputs.cache
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.AssemblyInfo.cs
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\bin\Debug\netcoreapp2.1\StreamingAPI_Core.pdb
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.dll
+C:\Users\pruwanpa\source\repos\StreamingAPI_Core\StreamingAPI_Core\obj\Debug\netcoreapp2.1\StreamingAPI_Core.pdb
